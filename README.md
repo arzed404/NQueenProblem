@@ -1,4 +1,4 @@
-# NQueenProblem
+# N-Queen Problem
 Solving N-Queen problem using genetic algorithm
 Chromosom:
       From index 0 to n, each index is the column number and value at each index is the row number at which queen is placed.
